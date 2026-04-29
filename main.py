@@ -1,2 +1,2 @@
-print("Hello, World!")
-print("Primeira Modificação")
+  A = 100
+  print(A)
