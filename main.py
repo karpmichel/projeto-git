@@ -1,2 +1,2 @@
-  A = 100
-  print(A)
+A = 100
+print(A)
